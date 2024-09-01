@@ -4,4 +4,4 @@ Check out our onboarding website with centralized resources [here](https://www.n
 
 1. Follow the general setup [guide](https://www.notion.so/General-Installation-Guide-f01d689363ae4521931d8a549f2280b7). (skip if you finsihed this)
 
-2. Follow the [tuturial](https://www.notion.so/Python-Basics-Tutorial-82c8602ceb574789abf890887e3adc9b).
+2. Follow the [tutorial](https://www.notion.so/Python-Basics-Tutorial-82c8602ceb574789abf890887e3adc9b).
